@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haripriya2004
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Front-end development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fronted projects
 - 📫 How to reach me haripriya5251004@gmail.com
 
 <!---
